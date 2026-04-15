@@ -1,7 +1,7 @@
 # ETVR-super-bubble-dongle
 A mod of Physic Dude's "Gum Stick" USB hub dongle, making use of the Adafruit CH334F Mini 4-Port USB Hub Breakout instead of the disassembled USB hub that it originally calls for.
 
-
+![alt text](https://raw.githubusercontent.com/theprotojeb/ETVR-super-bubble-dongle/refs/heads/main/images/Screenshot%202026-04-15%20134159.png "Main model")
 
 <br>
 
