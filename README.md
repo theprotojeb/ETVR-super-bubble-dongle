@@ -5,6 +5,23 @@ A mod of Physic Dude's "Gum Stick" USB hub dongle, making use of the Adafruit CH
 
 <br>
 
+## Extended BOM - New parts that are required ON-TOP of the existing parts list
+USB 2.0 Male ports - https://a.co/d/0gwzS9IB
+<br>
+<br>
+USB 2.0 Female ports - https://a.co/d/0j5L1d1M
+<br>
+<br>
+Adafruit CH334F Mini 4-Port USB Hub Breakout - https://www.adafruit.com/product/5997
+<br>
+<br>
+25mm 5V Fan (optional) - https://a.co/d/0giF23Fx
+<br>
+<br>
+Estimated added cost - $30.92 excluding shipping (with fan)
+
+<br>
+
 # Instructions will be made once the first build is complete, hang tight!
 In the meantime, you can use Physic Dude's tutorial as is, only change is to pre-solder the wires to the hub breakout before closing it up!
 <br>
